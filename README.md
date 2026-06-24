@@ -228,7 +228,7 @@ Each individual piece exists somewhere:
 - Drowsy detection: dashcam apps
 - Speed limiters: premium cars
 - Seatbelt reminders: all cars (ignored)
-- Breathalyzers: standalone devices
+- Breathalyzers: standalone devices 
 - Community reporting: Waze (only road conditions, not driver behavior)
 
 **What has never existed:**
